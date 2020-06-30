@@ -1,0 +1,14 @@
+h2{
+ color:#0000FF;
+}
+h1{
+	color:red;
+}
+
+#successReg{
+	
+	text-align: center;
+    position: absolute;
+    color: red;
+    font-size: large;
+}
